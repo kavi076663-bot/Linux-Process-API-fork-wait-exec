@@ -56,16 +56,8 @@ int main() {
 
 ##OUTPUT
 
-<img width="377" height="229" alt="Screenshot 2026-05-01 114412" src="https://github.com/user-attachments/assets/8e2bdcbd-9cd8-44c4-81de-b87e82069fe0" />
+<img width="618" height="257" alt="image" src="https://github.com/user-attachments/assets/018ec929-c23c-47e1-8828-c1d70a22be42" />
 
-
-
-
-
-
-
-
-<img width="540" height="203" alt="Screenshot 2026-05-01 114515" src="https://github.com/user-attachments/assets/96bcb2c6-b8cc-4a34-888d-bf2ee2af6521" />
 
 
 
